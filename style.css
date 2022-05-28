@@ -107,4 +107,7 @@ footer{
     h3{
         text-align: center;
     }
+    .katalog{
+    justify-content: center;
+}
 }
